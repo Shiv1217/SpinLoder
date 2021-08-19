@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/loadding-spinner/static/css/main.a6590b3b.chunk.css",
+    "main.js": "/loadding-spinner/static/js/main.5a897337.chunk.js",
+    "main.js.map": "/loadding-spinner/static/js/main.5a897337.chunk.js.map",
+    "runtime-main.js": "/loadding-spinner/static/js/runtime-main.47e40c67.js",
+    "runtime-main.js.map": "/loadding-spinner/static/js/runtime-main.47e40c67.js.map",
+    "static/js/2.c4793813.chunk.js": "/loadding-spinner/static/js/2.c4793813.chunk.js",
+    "static/js/2.c4793813.chunk.js.map": "/loadding-spinner/static/js/2.c4793813.chunk.js.map",
+    "static/js/3.9e880688.chunk.js": "/loadding-spinner/static/js/3.9e880688.chunk.js",
+    "static/js/3.9e880688.chunk.js.map": "/loadding-spinner/static/js/3.9e880688.chunk.js.map",
+    "index.html": "/loadding-spinner/index.html",
+    "static/css/main.a6590b3b.chunk.css.map": "/loadding-spinner/static/css/main.a6590b3b.chunk.css.map",
+    "static/js/2.c4793813.chunk.js.LICENSE.txt": "/loadding-spinner/static/js/2.c4793813.chunk.js.LICENSE.txt",
+    "static/media/loader.67e96075.gif": "/loadding-spinner/static/media/loader.67e96075.gif",
+    "static/media/Loder.css": "/loadding-spinner/static/media/lobby_bg.884fbe05.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47e40c67.js",
+    "static/js/2.c4793813.chunk.js",
+    "static/css/main.a6590b3b.chunk.css",
+    "static/js/main.5a897337.chunk.js"
+  ]
+}
